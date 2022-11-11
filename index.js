@@ -1,0 +1,1 @@
+const boton = querySelector(".task").contentText
